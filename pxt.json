@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-mikado-extension": "github:microbit-cz/pxt-mikado-extension#b89e4a0d25e8a1cb751795eafc87ccad7d12b493"
     },
     "files": [
         "README.md",
